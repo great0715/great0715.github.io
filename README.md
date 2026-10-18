@@ -58,3 +58,5 @@ The `.nojekyll` file tells Pages to serve the existing static site without a Jek
 - Review biographical details, dates, technologies, and the public contact email before publishing.
 - All storefront, dashboard, and pipeline data is demonstration data.
 - Private client code is not included.
+
+- Homepage dashboard thumbnails use local WebP artwork in `assets/`; the linked Signal and Release Lab demos remain interactive pages.
